@@ -1,2 +1,2 @@
 # cookbook.greenstuff.io
-Recipies
+This is a repository of recipies that we've made or saved.
