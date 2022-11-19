@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Beans and Rice"
-author: Us
+author: Sebastian
 recipe_image: /images/defaultImage.jpg #The image for your recipe
 image_width: 512
 image_height: 512
