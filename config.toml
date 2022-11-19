@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Our Recipies"
 theme = "cookbook"
 sectionPagesMenu = "main"
+publishDir = "docs"
+
 
 [params.front]
 defaultAuthor = "Us" #Put in the default name of the author of the recipe
