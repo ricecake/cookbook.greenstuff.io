@@ -21,8 +21,6 @@ calories: 800 #in kcal #can be BLANK
 
 ## Ingredients
 
-#### Ingredient Subheading
-
 - Kidney beans
 - black beans
 - potatoes
