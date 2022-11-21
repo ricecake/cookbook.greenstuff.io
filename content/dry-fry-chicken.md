@@ -2,7 +2,7 @@
 draft: false
 title: "Dry Fry Chicken"
 author: Us
-recipe_image: /images/defaultImage.jpg #The image for your recipe
+recipe_image: /images/defaultImage.png #The image for your recipe
 image_width: 512
 image_height: 512
 date: 2022-11-19T01:29:54-05:00
