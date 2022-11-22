@@ -26,6 +26,13 @@ jobs:
 
       - name: Build
         run: hugo --minify
+        
+      - name: Resize Images
+        uses: gonzalonaveira/gh-image-resizing@master
+        with:
+          IMAGES_MAX_WIDTH: "512"
+          IMAGES_FORMATS: "jpg, jpeg, png" 
+          IMAGES_DIRECTORIES: "./docs/images"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
