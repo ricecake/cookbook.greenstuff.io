@@ -28,7 +28,7 @@ image_height: 512
 
 - 5-6 medium sized granny smith apples
 - 4 tbsp cinnamon
-- 1 cup [cider syrup]({{< ref "cider-syrup.dp" >}} "Cider Syrup")
+- 1 cup [cider syrup]({{< ref "cider-syrup.md" >}} "Cider Syrup")
 - 1/2 cup sugar
 - 1/2 cub maple syrup
 - 8 tbsp butter
