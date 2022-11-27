@@ -2,7 +2,7 @@
 draft: false
 date: 2022-11-27T01:38:35-05:00
 
-title: "Cider Syrum"
+title: "Cider Syrup"
 tagline: "A sweet and tart syrup made from cider"
 tags: ["cider", "syrup", "sweet", "tart", "dessert"] #tags for your recipe
 
