@@ -22,7 +22,7 @@ calories: 90 #in kcal #can be BLANK
 - 1 teaspoon vanilla extract
 - 2 1/4 cups (330 grams) all-purpose flour
 - 1/4 teaspoon salt
-- 1/2 cup (64 grams) raspberry jam
+- 1/2 cup (64 grams) [cider syrup]({{< ref "cider-syrup.md" >}} "Cider Syrup")
 
 ## Directions
 - Combine butter, sugar and eggs.
