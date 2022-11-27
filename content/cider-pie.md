@@ -16,7 +16,7 @@ prep_time: 30 #in minutes #can be BLANK
 cook_time: 60 #in minutes or hours #can be BLANK
 cook_increment: minutes # set to minutes or hours
 
-recipe_image: /images/defaultImage.png #The image for your recipe
+recipe_image: /images/ciderPie.jpg #The image for your recipe
 image_width: 512
 image_height: 512
 
