@@ -34,7 +34,7 @@ image_height: 512
 - 8 tbsp butter
 - 1 tbsp vanilla
 - 4 eggs
-- 1 pie crust
+- 1 pie crust [^1]
 
 ## Directions
 
@@ -53,7 +53,11 @@ image_height: 512
 1. Preheat  oven to 350.
 2. Prepare pie dish.
 3. Fill pie dish with apples about half way, spreading evenly.
-4. Pour egg/syrup mixture over apples, filling the rest of the pie capacity.
+4. Pour egg/syrup mixture over apples, filling the rest of the pie capacity. [^2]
 5. Bake for 1 hour, looking for a proper cohesive jiggle to gauge doneness.
 6. Let cool overnight for best results.
 
+#### Notes
+
+[^1]: A second crust is needed for the top, if desired.  Opinion varies on the utility of the top crust, but it's at the least not detrimental, and it's argued that it prevents making the top of the apples gummy.  It's also argued that it's not adding anything but work.  Follow your heart.
+[^2]: If a top crust is being added, it should be added here.  Ensure ample ventilation as the pie will try to clog the vent slits.
