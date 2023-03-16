@@ -1,0 +1,37 @@
+title: "Coconut Ginger Ice cream V1"
+tagline: "Throwing some stuff together and seeing what works"
+tags: [#ice-cream, #dessert, #experimental] 
+
+author: Crystal
+
+servings: 6.8 #about 4oz portions
+calories: 174 #in kcal 
+
+cook: false 
+prep_time: 5 #in minutes
+cook_time: 60 #in minutes or hours #can be BLANK
+cook_increment: minutes # set to minutes or hours
+
+# For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted
+---
+
+
+## Ingredients
+
+- 1 13.66 oz can Unsweetened Coconut Milk
+- 1 13.66 oz can Unsweetened Light Coconut Milk
+- Honey to taste (initial guess about 2T)
+- Powdered Ginger to taste (initial guess about 1T)
+- 2t Vanilla
+- Pinch of salt
+
+## Directions
+
+1. In a large mixing bowl pour in the coconut milks and whisk to break up any lumps
+2. Add the rest of the ingredients and ensure will  mixed
+3. Pour through fine mesh sieve into bowl of ice cream maker and churn
+4. Once ice cream has solidified, remove from maker. Eat immediately or place in container and freeze until desired consistency is met. 
+
+#### Footnotes
+
+[^1]: Footnote 1
