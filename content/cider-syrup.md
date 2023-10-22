@@ -33,7 +33,7 @@ image_height: 512
 1. Place cider into large, flatbottomed pot
 2. Bring cider to a boil
 3. Reduce heat to a simmer.
-4. Let simmer until volume has reduced to 2 1/3 cup.
+4. Let simmer until volume has reduced to 2 1/3 cup (A 7:1 reduction).
   - Make sure to scrape the sides of the pot while reducing
   - Syrup will become much more viscous as it reduces.
   - Target viscosity will leave a notable trail in the pot when the bottom is wiped with a spatula.
