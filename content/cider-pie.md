@@ -40,7 +40,7 @@ image_height: 512
 
 #### Solid fillings
 1. Peel apples, and cut into small pieces.
-2. In a large pan, saute apples with 4 tbsp butter and  connamon until soft
+2. In a large pan, saute apples with 4 tbsp butter and cinnamon until soft
 3. Set aside once done.
 
 #### Liquid fillings
