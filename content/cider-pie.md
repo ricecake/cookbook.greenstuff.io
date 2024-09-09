@@ -30,7 +30,7 @@ image_height: 512
 - 4 tsp cinnamon
 - 1 cup [cider syrup]({{< ref "cider-syrup.md" >}} "Cider Syrup")
 - 1/2 cup sugar
-- 1/2 cub maple syrup
+- 1/2 cup maple syrup
 - 8 tbsp butter
 - 1 tbsp vanilla
 - 4 eggs
